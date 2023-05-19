@@ -109,3 +109,7 @@ astrology api 星盘 api 星盘接口![图片](https://github.com/liuyilook/astr
 <p>这个测试需要一定程序基础，一般用户可以跳过，如果测试页面不正常，建议用postman测试，因为有时候我们更新了接口，但是这个测试页面没有来得及更新。 http://www.xingpan.vip/astrology/Apiinterface</p>
 
 <p>先获取星盘配置 再测试星盘</p>
+
+<p>联系微信</p>
+![图片](https://github.com/liuyilook/astrology-api/assets/26639682/dea5107f-99bb-4dae-b1fd-948804db2ca3)
+
