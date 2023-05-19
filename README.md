@@ -111,5 +111,5 @@ astrology api 星盘 api 星盘接口![图片](https://github.com/liuyilook/astr
 <p>先获取星盘配置 再测试星盘</p>
 
 <p>联系微信</p>
-![图片](https://github.com/liuyilook/astrology-api/assets/26639682/dea5107f-99bb-4dae-b1fd-948804db2ca3)
+<img src="https://github.com/liuyilook/astrology-api/assets/26639682/dea5107f-99bb-4dae-b1fd-948804db2ca3" class="imgb center-block">
 
