@@ -1,5 +1,6 @@
 # astrology-api
-astrology api 星盘 api 星盘接口
+astrology api 星盘 api 星盘接口![图片](https://github.com/liuyilook/astrology-api/assets/26639682/503805c7-9466-42b8-8650-0340fc1282bb)
+
 <p>XINGPANVIP的API接口介绍</p>
 <h1>一、通用星盘接口</h1>
 
