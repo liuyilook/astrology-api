@@ -92,8 +92,14 @@ astrology api 星盘 api 星盘接口
 <p>弹窗：API 点击事件需要自己写我们星盘是矢量的，所以每个元素都有编号，可以设置任何响应的事件，比如点击事件（这个点击事件得你们程序猿自己写，因为不同语言接口是带不过去的）</p>
 <p>效果测试填入</p>
 
-<p>本命 http://xingpan.vip/demo/natal.html 时空盘 http://xingpan.vip/demo/timesmidpoint.html 比较盘 http://xingpan.vip/demo/comparision.html 马克思 http://xingpan.vip/demo/marks.html 三限盘 http://xingpan.vip/demo/thirdprogressed.html 日返照 http://xingpan.vip/demo/solarreturn.html 月返照 http://xingpan.vip/demo/lunarreturn.html 配对盘 http://xingpan.vip/demo/synastry.html</p>
-
+<p>本命 http://xingpan.vip/demo/natal.html </p>
+<p>时空盘 http://xingpan.vip/demo/timesmidpoint.html </p>
+<p>比较盘 http://xingpan.vip/demo/comparision.html </p>
+<p>马克思 http://xingpan.vip/demo/marks.html </p>
+<p>三限盘 http://xingpan.vip/demo/thirdprogressed.html </p>
+<p>日返照 http://xingpan.vip/demo/solarreturn.html </p>
+<p>月返照 http://xingpan.vip/demo/lunarreturn.html </p>
+<p>配对盘 http://xingpan.vip/demo/synastry.html</p>
 <p>其他盘不一一列举了，地址在http://www.xingpan.vip/astrology/Apiinterface</p>
 
 <p>页面，每个盘上方。</p>
